@@ -47,7 +47,7 @@ export class PortfolioComponent implements OnInit {
         'a Backend Developer.',
         'an Angular Developer.',
         'a Flutter Developer.',
-        'a MEFAN Stack Developer.',
+        'a ME(F/A)N Stack Developer.',
       ],
       typeSpeed: 50,
       backSpeed: 50,
