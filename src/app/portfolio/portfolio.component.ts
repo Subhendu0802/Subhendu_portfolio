@@ -44,10 +44,12 @@ export class PortfolioComponent implements OnInit {
 
     let options = {
       strings: [
-        'a Backend Developer.',
+        'a Full Stack Developer',
         'an Angular Developer.',
         'a Flutter Developer.',
-        'a ME(F/A)N Stack Developer.',
+        'a React Developer.',
+        'a Backend Developer.',
+        'a ME(F/A/R)N Stack Developer.',
       ],
       typeSpeed: 50,
       backSpeed: 50,
